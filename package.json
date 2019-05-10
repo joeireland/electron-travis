@@ -1,7 +1,7 @@
 {
   "name": "electron-travis",
-  "version": "1.0.0",
-  "description": "Example Electron app with MacOS & Windows build integration with Travis CI.",
+  "version": "1.0.1",
+  "description": "Example Electron app with MacOS & Windows build integration with Travis CI",
   "author": "Joe Ireland",
   "main": "main.js",
   "scripts": {
